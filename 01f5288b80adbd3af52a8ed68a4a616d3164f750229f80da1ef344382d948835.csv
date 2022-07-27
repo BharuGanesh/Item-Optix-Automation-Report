@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Check","Login Functionality (Positive)","SUCCESS","2022-07-27T15:32:19.543-07:00[America/Los_Angeles]","0.0","13.29"
+"Login Check","Login Functionality (Negative)","SUCCESS","2022-07-27T15:32:32.835-07:00[America/Los_Angeles]","0.0","12.18"
